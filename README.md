@@ -13,5 +13,5 @@ Configuration settle time expected to be ~2 second.
 ![image](https://user-images.githubusercontent.com/29487339/164370018-ca15adc7-acb1-48b0-88c0-551461aa4be6.png)
 
 # Conversion Tool
-![image](https://user-images.githubusercontent.com/29487339/164370318-f34b819a-2975-46c5-b8e6-b4e0d91be9a6.png)
+![image](https://user-images.githubusercontent.com/29487339/164370516-bd8172ea-502d-480c-b1c2-e48c5bdd05dc.png)
 
